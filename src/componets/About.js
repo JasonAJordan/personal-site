@@ -13,6 +13,12 @@ function About() {
             Even though Mech Engineering was pretty cool and all it turns out I would still rather be a software devoloper. 
         </p>
 
+        <p>
+            I decided I should take my career seriously because well it's my life and I should do what I find intresting. 
+            In the summer of 2020 I quit my job and applied for a few coding bootcamps. 
+            I got accepted into every bootcamp that I applied for however I decided to go with Flatiron in the end. 
+        </p>
+
         <h4>Past Jobs</h4>
 
         <p>

@@ -1,5 +1,6 @@
 
 
-
-
-
+.App {
+background: rgb(176, 175, 255);
+  min-height: 790px; 
+}
